@@ -20,10 +20,7 @@ Open to **internship opportunities** for Summer 2026.
 - 🔭 Building: *DormDash*
 - 📫 Reach me at: *https://www.linkedin.com/in/ebony-r-lawrence/*
 
----
 
-### 🔗 Connect
-[![LinkedIn](https://www.linkedin.com/in/ebony-r-lawrence/)
 
 
 <!--
