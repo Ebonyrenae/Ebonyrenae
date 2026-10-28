@@ -1,6 +1,6 @@
  ## Hi there 👋 I'm Ebony Lawrence
 
-Junior Computer Science student @ University at Buffalo
+Senior Computer Science student @ University at Buffalo
 
 ---
 
